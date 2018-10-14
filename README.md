@@ -1,1 +1,1 @@
-## Vamos hacer React 🎉
+## React 🎉
