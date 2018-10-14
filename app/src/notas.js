@@ -12,7 +12,7 @@ const notas = [
     titulo: "El nivel de hambruna es preocupante y alarmante en unos 60 países, según informe",
     slug: "/noticias/2018/10/14/nota/7000487/nivel-hambruna-es-preocupante-alarmante-60-paises-segun-informe",
     category: "internacional",
-    enlace: "https://www.eluniverso.com/sites/default/files/styles/nota_ampliada_normal_foto/public/fotos/2018/10/somaliahambruna1.jpg",
+    enlace: "https://www.eluniverso.com/sites/default/files/styles/fotogaleria_portada_secundario/public/fotos/2018/10/somaliahambruna1.jpg",
     descripcion: "El nivel del hambre continúa siendo preocupante en una sesentena de países, según un índice mundial."
   }
 ];
